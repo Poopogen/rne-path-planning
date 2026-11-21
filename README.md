@@ -1,4 +1,4 @@
-# rne-path-planning
+# Robotic Navigation and Exploration – Path Planning
 
 Implementation and comparison of two classic path-planning algorithms — **A\*** and **RRT\*** — for a mobile robot navigating a 2D occupancy-grid map. Built for the "Robotic Navigation and Exploration" course (NTHU).
 
